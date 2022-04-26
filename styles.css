@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+table, th, td {
+    border: 1px solid orange;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+
+.two {
+    background-color: pink;
+}
